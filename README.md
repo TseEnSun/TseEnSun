@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TseEnSun, you can call me Sean.
 - 👀 I’m interested in Functional Programming, Data Engineering, and Machien Learning.
-- 🌱 I’m currently learning Haskell for more FP concept, and TFX for ML on production.
+- 🌱 I’m currently learning Haskell for more FP concept, TFX for ML on production, the FP-Scala stuff.
 - 📫 Please use the mail tseensun@gmail.com to reach me if you need.
 
 <!---
