@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TseEnSun, you can call me Sean.
-- 👀 I’m interested in Functional Programming, Data Engineering, and Machien Learning.
-- 🌱 I’m currently learning Haskell for more FP concept, TFX for ML on production, the FP-Scala stuff.
-- 📫 Please use the mail tseensun@gmail.com to reach me if you need.
+- 👀 I’m interested in Functional Programming, Data Engineering, and Machine Learning.
+- 🌱 I have worked as a data engineer for years and now switched to the backend role, playing around with functional programming with Scala.
+- 📫 Please use the mail tseensun@gmail.com to reach me if necessary.
 
 <!---
 TseEnSun/TseEnSun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
