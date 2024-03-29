@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TseEnSun, you can call me Sean.
-- 👀 I’m interested in Functional Programming, Data Engineering, and Machine Learning.
+- 👀 I’m interested in Functional Programming, Backend Engineering, Data Engineering, and Machine Learning.
 - 🧑‍💼 I work as a backend engineer with Functional Programming and Scala.
 - 🌱 I have years of experience in data engineering.
 - 📫 Please use the mail tseensun@gmail.com to reach me if necessary.
